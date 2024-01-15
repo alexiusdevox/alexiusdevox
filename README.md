@@ -20,9 +20,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
 <style>
-  body {
+  * {
     background-color: red;
   }
 </style>
