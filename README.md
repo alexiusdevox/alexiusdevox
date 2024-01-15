@@ -17,22 +17,26 @@ You can click the Preview link to take a look at your changes.
   <ul>
     <li><a href="google.com">Calculator</a></li>
     <li><a href="google.com">Product list</a></li> 
+    <li><a href="google.com">To-do list</a></li> 
+    <li><a href="google.com">Budget calculator</a><li>
     <li><a href="google.com">Portfolio</a></li>
   </ul>
   <h4>Typescript<h4>
-      <ul>
-    <li><a href="google.com">Calculator</a></li>
-    <li><a href="google.com">Product list</a></li> 
-    <li><a href="google.com">Portfolio</a></li>
-  </ul>
-  <h3>Middle</h3>
-  <h4>Javascript</h4>
-  <ul>
-    <li><a href="google.com">Calculator</a></li>
-    <li><a href="google.com">Product list</a></li> 
-    <li><a href="google.com">Portfolio</a></li>
-  </ul><h3>Senior</h3>
-  <h4>Javascript</h4>
+    <ul>
+      <li><a href="google.com">Calculator</a></li>
+      <li><a href="google.com">Product list</a></li> 
+      <li><a href="google.com">To-do list</a></li> 
+      <li><a href="google.com">Budget calculator</a><li>
+      <li><a href="google.com">Portfolio</a></li>
+    </ul>
+    <h3>Middle</h3>
+    <h4>Javascript</h4>
+    <ul>
+      <li><a href="google.com">Calculator</a></li>
+      <li><a href="google.com">Product list</a></li> 
+      <li><a href="google.com">Portfolio</a></li>
+    </ul><h3>Senior</h3>
+    <h4>Javascript</h4>
     <ul>
       <li><a href="google.com">Calculator</a></li>
       <li><a href="google.com">Product list</a></li> 
