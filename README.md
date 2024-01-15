@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
   - 💞️ I’m looking to collaborate on ...
   - 📫 How to reach me ...
 </section>
-<section>
 <section>  
   <h2>Portfolio</h2>
   <h3>Junior</h3>
@@ -20,15 +19,13 @@ You can click the Preview link to take a look at your changes.
     <li><a href="google.com">Product list</a></li> 
     <li><a href="google.com">Portfolio</a></li>
   </ul>
-</section>
-<section>
   <h3>Middle</h3>
   <h4>Javascript</h4>
   <ul>
     <li><a href="google.com">Calculator</a></li>
     <li><a href="google.com">Product list</a></li> 
     <li><a href="google.com">Portfolio</a></li>
-  </ul><h3>Senior</h3></section>
+  </ul><h3>Senior</h3>
   <h4>Javascript</h4>
     <ul>
       <li><a href="google.com">Calculator</a></li>
