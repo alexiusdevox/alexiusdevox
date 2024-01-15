@@ -13,13 +13,11 @@ You can click the Preview link to take a look at your changes.
 <h2>Portfolio</h2>
 
 <h3>Junior</h3>
+<h4>Javascript</h4>
 <ul>
-  <li><a href="google.com">Javascript calculator</a></li>
-  <li><a href="google.com">Javascript product list</a></li> 
-  <li><a href="google.com">Javascript portfolio</a></li>
-  <li><a href="google.com">Javascript calculator</a></li>
-  <li><a href="google.com">Javascript product list</a></li> 
-  <li><a href="google.com">Javascript portfolio</a></li>
+  <li><a href="google.com">Calculator</a></li>
+  <li><a href="google.com">Product list</a></li> 
+  <li><a href="google.com">Portfolio</a></li>
 </ul>
 <h3>Middle</h3>
 <h3>Senior</h3>
