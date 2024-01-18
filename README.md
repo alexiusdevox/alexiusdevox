@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <section>
-  <h1>Hi! I'm System12, a Full Stack Developer! 👨‍💻</h1>
+  <h1>Hi 👋, I'm System12 👨‍💻</h1>
   - 👋 Hi, I’m @system12dev
   - 👀 I’m interested in ...
   - 🌱 I’m currently learning ...
