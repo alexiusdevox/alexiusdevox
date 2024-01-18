@@ -37,7 +37,6 @@ You can click the Preview link to take a look at your changes.
                     </ul>
                 </div>
             </div>
-          <hr>
             <div class="middle">
                 <h3>🧔 Middle</h3>
                 <div class="react">
@@ -62,7 +61,6 @@ You can click the Preview link to take a look at your changes.
                     </ul>
                 </div>
             </div>
-          <hr>
             <div class="senior">
                 <h3>👨‍🦳 Senior</h3>
                 <div class="javascript">
