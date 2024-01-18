@@ -68,7 +68,7 @@ You can click the Preview link to take a look at your changes.
                 <div class="javascript">
                     <h4>Javascript</h4>
                     <ul>
-                        <li><a href="">asd</a></li>
+                        <li><a href="">ecommerce</a></li>
                         <li><a href="">asd</a></li>
                     </ul>
                 </div>
