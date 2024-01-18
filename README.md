@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
             </div>
           <hr>
             <div class="middle">
-                <h3>👨 Middle</h3>
+                <h3>🧔 Middle</h3>
                 <div class="react">
                     <h4>React</h4>
                     <ul>
