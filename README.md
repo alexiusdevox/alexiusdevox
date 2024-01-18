@@ -7,11 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 <section>
     <h1>Hi 👋, I'm System12 👨‍💻</h1>
-    - 👋 Hi, I’m @system12dev
-    - 👀 I’m interested in ...
-    - 🌱 I’m currently learning ...
-    - 💞️ I’m looking to collaborate on ...
-    - 📫 How to reach me ...
+<p>
+Fin da bambino, ho coltivato la passione per la tecnologia attraverso la modifica del sistema operativo del mio primo telefono e la personalizzazione degli assets nei videogiochi. Queste esperienze hanno alimentato il mio interesse per l'innovazione tecnologica, mentre l'esplorazione dell'arte ha contribuito a sviluppare un approccio creativo nel mio percorso.</p>
 </section>
 <section>
     <h2>Portfolio</h2>
