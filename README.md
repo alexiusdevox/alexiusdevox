@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
         <h2>Portfolio</h2>
         <div class="javascript">
             <div class="junior">
-                <h3>Junior</h3>
+                <h3>🧒 Junior</h3>
                 <div class="javascript">
                     <h4>Javascript</h4>
                     <ul>
@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
             </div>
           <hr>
             <div class="middle">
-                <h3>Middle</h3>
+                <h3>👦 Middle</h3>
                 <div class="react">
                     <h4>React</h4>
                     <ul>
@@ -64,7 +64,7 @@ You can click the Preview link to take a look at your changes.
             </div>
           <hr>
             <div class="senior">
-                <h3>Senior</h3>
+                <h3>🧓 Senior</h3>
                 <div class="javascript">
                     <h4>Javascript</h4>
                     <ul>
