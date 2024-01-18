@@ -20,7 +20,7 @@ Fin da bambino, ho coltivato la passione per la tecnologia attraverso la modific
                     <h4>Javascript</h4>
                     <ul>
                         <li><a href="">to-do list</a></li>
-                        <li><a href="">calculator</a></li>
+                        <li><a href="https://github.com/system12dev/js-calculator">calculator</a></li>
                         <li><a href="">product list</a></li>
                         <li><a href="">image gallery</a></li>
                     </ul>
