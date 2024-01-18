@@ -7,8 +7,12 @@ You can click the Preview link to take a look at your changes.
 
 <section>
     <h1>Hi 👋, I'm System12 👨‍💻</h1>
-<p>
-Fin da bambino, ho coltivato la passione per la tecnologia attraverso la modifica del sistema operativo del mio primo telefono e la personalizzazione degli assets nei videogiochi. Queste esperienze hanno alimentato il mio interesse per l'innovazione tecnologica, mentre l'esplorazione dell'arte ha contribuito a sviluppare un approccio creativo nel mio percorso.</p>
+    <p>
+        Since I was a child, I have cultivated a passion for technology starting with my first phone, which stimulated
+        my curiosity towards the digital world. Subsequently, I expanded my experience with the advent of the computer,
+        allowing me to explore the operating system and discover the infinite possibilities offered by technology. These
+        experiences fueled my interest in technological innovation, while the exploration of art helped develop a
+        creative approach in my path.</p>
 </section>
 <section>
     <h2>Portfolio</h2>
