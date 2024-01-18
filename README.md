@@ -33,19 +33,41 @@ You can click the Preview link to take a look at your changes.
                     </ul>
                 </div>
             </div>
+          <hr>
             <div class="middle">
                 <h3>Middle</h3>
-                <ul>
-                    <li><a href="">asd</a></li>
-                    <li><a href="">asd</a></li>
-                </ul>
+                <div class="javascript">
+                    <h4>Javascript</h4>
+                    <ul>
+                        <li><a href="">asd</a></li>
+                        <li><a href="">asd</a></li>
+                    </ul>
+                </div>
+                <div class="typescript">
+                    <h4>Typescript</h4>
+                    <ul>
+                        <li><a href="">asd</a></li>
+                        <li><a href="">asd</a></li>
+                    </ul>
+                </div>
             </div>
+          <hr>
             <div class="senior">
                 <h3>Senior</h3>
-                <ul>
-                    <li><a href="">asd</a></li>
-                    <li><a href="">asd</a></li>
-                </ul>
+                <div class="javascript">
+                    <h4>Javascript</h4>
+                    <ul>
+                        <li><a href="">asd</a></li>
+                        <li><a href="">asd</a></li>
+                    </ul>
+                </div>
+                <div class="typescript">
+                    <h4>Typescript</h4>
+                    <ul>
+                        <li><a href="">asd</a></li>
+                        <li><a href="">asd</a></li>
+                    </ul>
+                </div>
             </div>
         </div>
     </section>
