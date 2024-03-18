@@ -18,6 +18,12 @@ You can click the Preview link to take a look at your changes.
     <h2>Portfolio</h2>
     <ul>
         <li>
+            <h3>👨‍🦳 Senior</h3>
+        </li>
+        <li>
+            <h3>🧔 Middle</h3>
+        </li>
+        <li>
             <h3>👦 Junior</h3>
             <ul>
                 <li>
@@ -39,12 +45,6 @@ You can click the Preview link to take a look at your changes.
                     </ul>
                 </li>
             </ul>
-        </li>
-        <li>
-            <h3>🧔 Middle</h3>
-        </li>
-        <li>
-            <h3>👨‍🦳 Senior</h3>
         </li>
     </ul>
 </section>
