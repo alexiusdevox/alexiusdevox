@@ -15,6 +15,9 @@ You can click the Preview link to take a look at your changes.
         creative approach in my path.</p>
 </section>
 <section>
+    <h2>Technologies</h2>
+</section>
+<section>
     <h2>Portfolio</h2>
     <ul>
         <li>
