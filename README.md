@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
   </a>
     <h3>Back-end</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vite,react,docker,firebase,mysql,supabase" />
+    <img src="https://skillicons.dev/icons?i=php,python,nodejs,git,github,vite,react,docker,firebase,mysql,supabase" />
   </a>
 
 
