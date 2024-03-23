@@ -16,6 +16,8 @@ You can click the Preview link to take a look at your changes.
 </section>
 <section>
     <h2>💻 Technologies</h2>
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 </section>
 <section>
     <h2>💼 Portfolio</h2>
