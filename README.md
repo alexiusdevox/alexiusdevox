@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <section>
     <h2>💻 Technologies</h2>
     <h3>UX/UI Design</h3>
-        <img src="https://skillicons.dev/icons?i=figma" />
+        <img src="https://skillicons.dev/icons?i=figma,ai,ap" />
     <h3>Front-end</h3>
       <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
