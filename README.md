@@ -16,7 +16,9 @@ You can click the Preview link to take a look at your changes.
 </section>
 <section>
     <h2>💻 Technologies</h2>
-
+    <h3>Graphic Design</h3>
+    <h3>Front-end</h3>
+    <h3>Back-end</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,git,github,vite,react,docker,firebase,mysql,supabase" />
   </a>
