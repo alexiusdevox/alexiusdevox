@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
     <h3>Graphic Design</h3>
     <h3>Front-end</h3>
       <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
   </a>
     <h3>Back-end</h3>
   <a href="https://skillicons.dev">
