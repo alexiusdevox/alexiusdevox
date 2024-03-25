@@ -20,11 +20,11 @@ You can click the Preview link to take a look at your changes.
         <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
     <h3>Front-end</h3>
       <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react" />
   </a>
     <h3>Back-end</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,python,nodejs,git,github,vite,react,docker,firebase,mysql,supabase" />
+    <img src="https://skillicons.dev/icons?i=php,python,nodejs,git,github,vite,docker,firebase,mysql,supabase" />
   </a>
 
 
