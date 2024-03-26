@@ -33,13 +33,13 @@ You can click the Preview link to take a look at your changes.
     <h2>💼 Portfolio</h2>
     <ul>
         <li>
-            <h3>👨‍🦳🥇 Senior</h3>
+            <h3>👨‍🦳🥇 Pro</h3>
         </li>
         <li>
             <h3>🧔🥈 Middle</h3>
         </li>
         <li>
-            <h3>👦🥉 Junior</h3>
+            <h3>👦🥉 N00b</h3>
             <ul>
                 <li>
                     <h4>Javascript</h4>
