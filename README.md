@@ -36,13 +36,13 @@ You can click the Preview link to take a look at your changes.
             <h3>🐱‍💻🏆 Hacker</h3>
         </li>
         <li>
-            <h3>👨‍🦳🥇 Pro</h3>
+            <h3>😎🥇 Pro</h3>
         </li>
         <li>
-            <h3>🧔🥈 Middle</h3>
+            <h3>🤠🥈 Middle</h3>
         </li>
         <li>
-            <h3>👦🥉 N00b</h3>
+            <h3>🤓🥉 N00b</h3>
             <ul>
                 <li>
                     <h4>Javascript</h4>
