@@ -33,6 +33,9 @@ You can click the Preview link to take a look at your changes.
     <h2>💼 Portfolio</h2>
     <ul>
         <li>
+            <h3>🐱‍💻🏆 Hacker</h3>
+        </li>
+        <li>
             <h3>👨‍🦳🥇 Pro</h3>
         </li>
         <li>
