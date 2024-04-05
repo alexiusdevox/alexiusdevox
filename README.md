@@ -17,15 +17,15 @@ You can click the Preview link to take a look at your changes.
 <section>
     <h2>💻 Technologies</h2>
     <h3>UX/UI Design</h3>
-        <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
     <h3>Front-end</h3>
-      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,svelte" />
-  </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,svelte" />
+    </a>
     <h3>Back-end</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,python,nodejs,git,github,vite,docker,firebase,mysql,supabase" />
-  </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=php,python,nodejs,git,github,vite,docker,firebase,mysql,supabase" />
+    </a>
 
 
 </section>
@@ -40,6 +40,35 @@ You can click the Preview link to take a look at your changes.
         </li>
         <li>
             <h3>🤠🥈 Middle</h3>
+            <ul>
+                <li>
+                    <h4>React</h4>
+                    <ul>
+                        <li><a href="">to-do list</a></li>
+                        <li><a href="https://github.com/system12dev/js-calculator">calculator</a></li>
+                        <li><a href="">product list</a></li>
+                        <li><a href="">image gallery</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h4>Vue</h4>
+                    <ul>
+                        <li><a href="">to-do list</a></li>
+                        <li><a href="https://github.com/system12dev/js-calculator">calculator</a></li>
+                        <li><a href="">product list</a></li>
+                        <li><a href="">image gallery</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <h4>Angular</h4>
+                    <ul>
+                        <li><a href="">to-do list</a></li>
+                        <li><a href="https://github.com/system12dev/js-calculator">calculator</a></li>
+                        <li><a href="">product list</a></li>
+                        <li><a href="">image gallery</a></li>
+                    </ul>
+                </li>
+            </ul>
         </li>
         <li>
             <h3>🤓🥉 N00b</h3>
