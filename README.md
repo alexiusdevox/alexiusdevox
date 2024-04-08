@@ -76,6 +76,7 @@ You can click the Preview link to take a look at your changes.
                 <li>
                     <h4>Javascript</h4>
                     <ul>
+                        <li><a href="">cocktai-db (Fetch API)</a></li>
                         <li><a href="">to-do list</a></li>
                         <li><a href="https://github.com/system12dev/js-calculator">calculator</a></li>
                         <li><a href="">product list</a></li>
