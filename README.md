@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
                     <h4>Vue</h4>
                     <ul>
                         <li><a href="">to-do list</a></li>
-                        <li><a href="https://github.com/system12dev/js-calculator">calculator</a></li>
+                        <li><a href="">calculator</a></li>
                         <li><a href="">product list</a></li>
                         <li><a href="">image gallery</a></li>
                     </ul>
@@ -63,7 +63,7 @@ You can click the Preview link to take a look at your changes.
                     <h4>Angular</h4>
                     <ul>
                         <li><a href="">to-do list</a></li>
-                        <li><a href="https://github.com/system12dev/js-calculator">calculator</a></li>
+                        <li><a href="">calculator</a></li>
                         <li><a href="">product list</a></li>
                         <li><a href="">image gallery</a></li>
                     </ul>
