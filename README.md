@@ -73,6 +73,15 @@ You can click the Preview link to take a look at your changes.
         <li>
             <h3>🤓🥉 N00b</h3>
             <ul>
+               <li>
+                    <h4>Python</h4>
+                    <ul>
+                        <li><a href="">product list</a></li>
+                        <li><a href="">to-do list</a></li>
+                        <li><a href="">image gallery</a></li>
+                        <li><a href="">calculator</a></li>
+                    </ul>
+                </li>
                 <li>
                     <h4>Javascript</h4>
                     <ul>
