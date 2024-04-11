@@ -86,7 +86,7 @@ You can click the Preview link to take a look at your changes.
                     <h4>Javascript</h4>
                     <ul>
                         <li><a href="">product list</a></li>
-                        <li><a href=">password generator</a></li>
+                        <li><a href="">password generator</a></li>
                         <li><a href="">to-do list</a></li>
                         <li><a href="">image gallery</a></li>
                         <li><a href="">calculator</a></li>
