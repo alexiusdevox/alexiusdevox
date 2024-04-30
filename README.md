@@ -24,10 +24,10 @@ You can click the Preview link to take a look at your changes.
     </a>
     <h3>Back-end</h3>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,python,nodejs,git,github,vite,docker,firebase,mysql,supabase" />
+        <img src="https://skillicons.dev/icons?i=php,python,nodejs,firebase,mysql,supabase" />
     </a>
-    <h3>CMS</h3>
-    <img src="https://skillicons.dev/icons?i=wordpress" />
+    <h3>CMS & Software</h3>
+    <img src="https://skillicons.dev/icons?i=docker,git,vite,wordpress" />
 </section>
 <section>
     <h2>💼 Portfolio</h2>
