@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
     <h3>Front-end</h3>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,svelte" />
+        <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,svelte" />
     </a>
     <h3>Back-end</h3>
     <a href="https://skillicons.dev">
