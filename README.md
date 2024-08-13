@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
         <img src="https://skillicons.dev/icons?i=php,python,nodejs,firebase,mysql,supabase" />
     </a>
     <h3>CMS & Software</h3>
-    <img src="https://skillicons.dev/icons?i=docker,git,vite,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,vite,docker,wordpress" />
 </section>
 <!-- <section>
     <h2>💼 Portfolio</h2>
