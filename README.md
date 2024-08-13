@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
     <h3>CMS & Software</h3>
     <img src="https://skillicons.dev/icons?i=docker,git,vite,wordpress" />
 </section>
-<section>
+<!-- <section>
     <h2>💼 Portfolio</h2>
     <ul>
         <li>
@@ -95,4 +95,4 @@ You can click the Preview link to take a look at your changes.
             </ul>
         </li>
     </ul>
-</section>
+</section> -->
