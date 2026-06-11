@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <section>
-    <h1>Hi 👋, I'm Alexius 👨‍💻</h1>
+    <h1>Hi 👋, I'm Alex 👨‍💻</h1>
     <p>
         Since I was a child, I have cultivated a passion for technology starting with my first phone, which stimulated
         my curiosity towards the digital world. Subsequently, I expanded my experience with the advent of the computer,
